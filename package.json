@@ -1,6 +1,6 @@
 {
-  "name": "sqlit3-methods",
-  "version": "0.0.1",
+  "name": "sqlite3-methods",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "Coshgun Babayev (github => https://github.com/coshgunbabayev)",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "sqlite3": "^5.1.7"
